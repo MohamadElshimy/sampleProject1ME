@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "aerospike",
+      "type": "com.exalt.learning.sampleme.configuration.AerospikeConfigurationProperties",
+      "sourceType": "com.exalt.learning.sampleme.configuration.AerospikeConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aerospike.host",
+      "type": "java.lang.String",
+      "sourceType": "com.exalt.learning.sampleme.configuration.AerospikeConfigurationProperties"
+    },
+    {
+      "name": "aerospike.namespace",
+      "type": "java.lang.String",
+      "sourceType": "com.exalt.learning.sampleme.configuration.AerospikeConfigurationProperties"
+    },
+    {
+      "name": "aerospike.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.exalt.learning.sampleme.configuration.AerospikeConfigurationProperties"
+    }
+  ],
+  "hints": []
+}
